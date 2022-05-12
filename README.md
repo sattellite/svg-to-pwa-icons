@@ -4,8 +4,7 @@ Project created as a helper utility for some of my projects with PWA (progressiv
 
 ## Installation
 
-Download the latest version from [releases page]
-(/sattellite/svg-to-pwa-icons/releases).
+Download the latest version from [releases page](https://github.com/sattellite/svg-to-pwa-icons/releases).
 
 Or install it manually. Project written in [Golang](https://go.dev/) and you 
 need install it first. Then you can install app with command:
